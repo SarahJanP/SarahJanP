@@ -6,7 +6,7 @@
 > I am a first-year Interactive Design: User Experience Major at SAIT!
 > 
 > I am a very passionate learner and I am always looking for ways to improve, learn new things, and solidify my skills!  
->> I hope that by the end of my time at SAIT I will have the knowledge required to work on the User Experience team for a website/company, or work in the videogames industry and improve the UX of many games out there!
+> I hope that by the end of my time at SAIT I will have the knowledge required to work on the User Experience team for a website/company, or work in the videogames industry and improve the UX of many games out there!
 
 ---
 
