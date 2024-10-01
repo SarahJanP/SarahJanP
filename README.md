@@ -1,6 +1,6 @@
 # Sarah Parker's Github Profile!
 
->### About me:
+### About me:
 > Connect with me on *[LinkedIn!](https://www.linkedin.com/in/sarah-parker-76a47a2a3/)*
 
 > I am a first-year Interactive Design: User Experience Major at SAIT!
@@ -10,7 +10,7 @@
 
 ---
 
->### Hobbies:
+### Hobbies:
 > I **really** enjoy art and all things creative, such as:
 > - Crochet and Fiber Arts
 > - Painting/Drawing Traditionally and Digitally
