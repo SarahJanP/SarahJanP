@@ -1,13 +1,14 @@
 # Sarah Parker's Github Profile!
 
-
 >### About me:
-> I am a first year Interactive Design: User Experience Major at SAIT!
+> Connect with me on *[LinkedIn!](https://www.linkedin.com/in/sarah-parker-76a47a2a3/)*
+
+> I am a first-year Interactive Design: User Experience Major at SAIT!
 > 
-> I am always looking for ways to improve, learn new things, and solidify my skills!  I hope that by the end of my time at SAIT I will have the knowledge required to work on the User Experience team for a website or company, or work in the videogames industry and improve the UX of many games out there!
->
-> I have 2 brothers, my younger who lives with me at SAIT residence, and my older who has graduated from UofC with a BS in Computer Science! 
-> 
+> I am a very passionate learner and I am always looking for ways to improve, learn new things, and solidify my skills!  
+>> I hope that by the end of my time at SAIT I will have the knowledge required to work on the User Experience team for a website/company, or work in the videogames industry and improve the UX of many games out there!
+
+---
 
 >### Hobbies:
 > I **really** enjoy art and all things creative, such as:
@@ -21,3 +22,4 @@
 > - Hollow Knight
 > 
 
+ Thank you for reading! I am really looking forward to meeting, working, and connecting with you!
